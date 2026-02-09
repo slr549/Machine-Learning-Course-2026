@@ -1,6 +1,6 @@
 ---
 
-# 📝 Kontrak Perkuliahan & Aturan Main
+## 📝 Kontrak Perkuliahan & Aturan Main
 
 **Mata Kuliah:** Machine Learning (2026 Edition)
 
