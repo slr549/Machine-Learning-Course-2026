@@ -24,3 +24,11 @@ Mahasiswa wajib memiliki akun:
 - **GitHub:** Untuk version control.
 - **Weights & Biases (W&B):** Untuk memantau performa model secara real-time.
 - **Hugging Face:** Untuk mengakses model AI tercanggih di dunia.
+
+
+## 📝 Tugas Minggu 1
+1. **Setup Akun:** Pastikan Anda sudah mendaftar GitHub, W&B, dan Hugging Face.
+2. **Clone & Run:** Buka file `01_Hello_ML.ipynb` di Colab Anda.
+3. **Modifikasi:** Pada "Magic Demo 2", ganti kalimatnya dengan kalimat Bahasa Indonesia lain (misal: "Macet di Jakarta membuat saya pusing").
+4. **Screenshot:** Ambil screenshot dashboard **Weights & Biases** Anda yang menunjukkan grafik akurasi dari latihan tadi.
+5. **Submit:** Masukkan screenshot tersebut ke dalam folder `assignments/minggu-1/` di repositori GitHub pribadi Anda (fork dari repo ini).
