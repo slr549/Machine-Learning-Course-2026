@@ -25,6 +25,19 @@ Mahasiswa wajib memiliki akun:
 - **Weights & Biases (W&B):** Untuk memantau performa model secara real-time.
 - **Hugging Face:** Untuk mengakses model AI tercanggih di dunia.
 
+## Fokus Pekan Ini:
+Sesuai dengan Roadmap 2026, fokus kita adalah memastikan infrastruktur pengembangan sudah siap.
+
+1. **Cloud Setup:** Mengintegrasikan Google Colab, GitHub, dan Weights & Biases (W&B).
+2. **Library Essentials:** Mengenal Scikit-learn untuk ML klasik dan Transformers untuk Modern AI.
+3. **Dataset:** Menggunakan Scikit-learn Toy Datasets (Iris).
+
+## Materi Praktikum
+- [01_Hello_ML.ipynb](./01_Hello_ML.ipynb): Implementasi pertama ML dengan tracking experiment di W&B.
+
+## Dokumentasi Pendukung
+- [W&B Quickstart Guide](https://docs.wandb.ai/quickstart)
+- [Scikit-learn Datasets Docs](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 
 ## 📝 Tugas Minggu 1
 1. **Setup Akun:** Pastikan Anda sudah mendaftar GitHub, W&B, dan Hugging Face.
