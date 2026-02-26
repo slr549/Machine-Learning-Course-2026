@@ -29,16 +29,13 @@ Berdasarkan hasil `.info()` dan `.isnull().sum()`, sebutkan kolom mana saja yang
 
 Jelaskan alasan teknis di balik keputusan Anda dalam menangani data yang hilang:
 
-* 
-**Imputasi Age:** Mengapa menggunakan Median daripada Mean?
+* **Imputasi Age:** Mengapa menggunakan Median daripada Mean?
 
 
-* 
-**Imputasi Embarked:** Mengapa menggunakan Modus?
+* **Imputasi Embarked:** Mengapa menggunakan Modus?
 
 
-* 
-**Penghapusan Cabin:** Mengapa kolom ini lebih baik dihapus daripada diisi?
+* **Penghapusan Cabin:** Mengapa kolom ini lebih baik dihapus daripada diisi?
 
 
 
@@ -51,8 +48,7 @@ Sertakan hasil temuan Anda dari visualisasi yang dilakukan:
 * **Survival Rate by Gender:** Berdasarkan grafik, gender mana yang memiliki tingkat keselamatan lebih tinggi? Jelaskan hubungannya dengan konteks historis?
 
 
-* 
-**Distribusi Umur:** Jelaskan karakteristik umur penumpang Titanic yang Anda temukan.
+* **Distribusi Umur:** Jelaskan karakteristik umur penumpang Titanic yang Anda temukan.
 
 
 
@@ -62,10 +58,7 @@ Sertakan hasil temuan Anda dari visualisasi yang dilakukan:
 
 Jelaskan proses pembuatan fitur baru dan transformasinya:
 
-* 
-**Fitur `FamilySize`:** Tuliskan rumus yang Anda gunakan dalam LaTeX:
-
-
+* **Fitur `FamilySize`:** Tuliskan rumus yang Anda gunakan dalam LaTeX:
 
 
 * **Analisis:** Apakah ukuran keluarga berpengaruh terhadap peluang selamat? Berikan bukti dari grafik yang Anda buat.
